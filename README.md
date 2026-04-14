@@ -36,4 +36,4 @@ A complete practice management system developed from scratch for a dental clinic
 
 **Note:** This repository contains documentation only. Source code is private.
 
-Built by [Batuhan Ariöz](https://github.com/batuhanarioz)
+Built by [Batuhan Arıöz](https://github.com/batuhanarioz)
